@@ -43,7 +43,9 @@ This will start a local host of application at `localhost:3000` (default).
 On the website above, click "Connect Device" to conect to M5Stick-C BLE server. And then click "Shoulder Abduction" and follow the GIF displayed on the website. After the exercise the website will automatically display the ROM of your exercise. To repeat an exercise, simply click the "Shoulder Abduction" button again. 
 
 ## Results
+A total of five trials were tested and the degree vs time is graphed in the following graph. 
 
+<img src="data/data_overtime.jpg">
 
 
 ## Acknowledgements
