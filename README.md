@@ -5,6 +5,8 @@ SlapTrack is an web application connected to a M5Stick-C device via BLE connecti
 
 The app tracks and records the range of movements of the limb in the roll direction of the device; then the application will display the range of motion (ROM) on the mobile portal.
 
+The goal of the device is to gain quantifiable rehabilitation data for stroke patients so that Physical Therapists will have more accurate and easy way to assess patient's progress over time, giving better rehabilitation outcomes.
+
 SlapTrack is BMedical's senior design project. Teammates include: Robert Zhang, Ryan Homem, Ponni Theetharappan, Kyle Wysocki.
 
 ## Equipment list
@@ -12,7 +14,7 @@ SlapTrack is BMedical's senior design project. Teammates include: Robert Zhang, 
 - 3D Printed Base Mold
 - Slap Band of any sort
 
-## Software Dev
+## Software Tools
 - Visual Studio Code
 - Arduino IDE / Platformio
 
