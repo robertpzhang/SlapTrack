@@ -37,7 +37,7 @@ Then:
 
 This will start a local host of application at `localhost:3000` (default).
 
-[Contribution guidelines for this project](data/demo_web.png)
+<img src="data/demo_web.png" width="400" height="500">
 
 
 ## Acknowledgements
