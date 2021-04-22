@@ -36,7 +36,8 @@ Then:
 `npm start`
 
 This will start a local host of application at `localhost:3000` (default).
-![Alt text](/data/demo-web.png?raw=true "Website Demo")
+
+![Alt text](data/demo-web.png?raw=true "Website Demo")
 
 
 ## Acknowledgements
