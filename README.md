@@ -18,8 +18,15 @@ SlapTrack is BMedical's senior design project. Teammates include: Robert Zhang, 
 
 ## Start
 To start testing the device, you'll need to first download the repo. 
-Then `cd mobile-app`, utilizing either Arduino IDE or Platformio frm VSCode, build and upload the script to the M5Stick-C device. 
-Then `cd ..` `cd host-app` `npm start`. This will start a local host of application at `localhost:3000` (default).
+Then:
+`cd mobile-app` 
+utilizing either Arduino IDE or Platformio frm VSCode, build and upload the script to the M5Stick-C device. 
+Then:
+`cd ..`
+`cd host-app`
+`npm start`
+This will start a local host of application at `localhost:3000` (default).
+![Alt text](/data/demo-web.png?raw=true "Website Demo")
 
 
 ## Acknowledgements
