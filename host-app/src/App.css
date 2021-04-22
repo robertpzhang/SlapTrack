@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 15vmin;
+  position:absolute;
+  top:0;
+  pointer-events: none;
+
+}
+.GIF{
+  position:relative;
+  height: 300px;
+  width: 200px;
+}
+.btn {
+  display:inline-block;
+  border: black;
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  top:-5px;
+  padding: 14px 28px;
+  font-size: 15px;
+}
+.divider{
+    width:50px;
+    height:auto;
+    display:inline-block;
+}
+
+/* On mouse-over */
+.btn:hover {background: #eee;}
+
+
+.App-header {
+  background-color: #white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+  position:absolute;
+  margin-left:-150px;
+  bottom:10px;
+  left:50%;
+}
+
