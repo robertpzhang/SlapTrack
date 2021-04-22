@@ -13,7 +13,7 @@ SlapTrack is BMedical's senior design project. Teammates include: Robert Zhang, 
 - M5Stick-C [https://shop.m5stack.com/products/stick-c]
 - 3D Printed Base Mold
 - Slap Band of any sort
-<img src="data/device-demo.jpg" width="400" height="500">
+<img src="data/device-demo.jpg">
 
 ## Software Tools
 - Visual Studio Code
