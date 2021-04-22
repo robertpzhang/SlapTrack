@@ -13,12 +13,13 @@ SlapTrack is BMedical's senior design project. Teammates include: Robert Zhang, 
 - M5Stick-C [https://shop.m5stack.com/products/stick-c]
 - 3D Printed Base Mold
 - Slap Band of any sort
+<img src="device-demo.heic" width="400" height="500">
 
 ## Software Tools
 - Visual Studio Code
 - Arduino IDE / Platformio
 
-## Start
+## To Start
 To start testing the device, you'll need to first download the repo.
 
 Then:
@@ -36,8 +37,10 @@ Then:
 `npm start`
 
 This will start a local host of application at `localhost:3000` (default).
-![Alt text](/data/demo-web.png?raw=true "Website Demo")
 
+<img src="data/demo_web.png" width="400" height="500">
+
+On the website above, click "Connect Device" to conect to M5Stick-C BLE server. And then click "Shoulder Abduction" and follow the GIF displayed on the website. After the exercise the website will automatically display the ROM of your exercise. To repeat an exercise, simply click the "Shoulder Abduction" button again. 
 
 ## Acknowledgements
 This project is mentored by Dr. Andy McDaniel and Dr. Bruce Wiggin from the UNC&NCSU BME Department. This project is also funded by the UNC&NCSU BME Department. Huge thanks were given to the mentors and the support from the department.  
